@@ -1,0 +1,17 @@
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_utils.c.o: \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/misc/lv_utils.c \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h \
+ /usr/arm-linux/lib/gcc/arm-linux-gnueabihf/7.5.0/include/stddef.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/misc/lv_utils.h \
+ /usr/arm-linux/lib/gcc/arm-linux-gnueabihf/7.5.0/include/stdint.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/stdint.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/libc-header-start.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/features.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/sys/cdefs.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/wordsize.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/long-double.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/gnu/stubs.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/gnu/stubs-hard.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/types.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/typesizes.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/wchar.h

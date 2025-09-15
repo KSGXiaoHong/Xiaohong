@@ -1,0 +1,30 @@
+lvgl/CMakeFiles/lvgl.dir/src/misc/lv_array.c.o: \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/misc/lv_array.c \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/misc/lv_array.h \
+ /usr/arm-linux/lib/gcc/arm-linux-gnueabihf/7.5.0/include/stdint.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/stdint.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/libc-header-start.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/features.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/sys/cdefs.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/wordsize.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/long-double.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/gnu/stubs.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/gnu/stubs-hard.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/types.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/typesizes.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/wchar.h \
+ /usr/arm-linux/lib/gcc/arm-linux-gnueabihf/7.5.0/include/stddef.h \
+ /usr/arm-linux/lib/gcc/arm-linux-gnueabihf/7.5.0/include/stdbool.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/misc/lv_types.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/misc/../lv_conf_internal.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/misc/../lv_conf_kconfig.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lv_conf.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/misc/../stdlib/lv_mem.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/misc/../stdlib/../lv_conf_internal.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/string.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/xlocale.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/misc/../stdlib/../misc/lv_types.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/misc/../stdlib/lv_string.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/misc/lv_assert.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/misc/lv_log.h

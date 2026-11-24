@@ -1,0 +1,24 @@
+lvgl/CMakeFiles/lvgl.dir/src/stdlib/micropython/lv_mem_core_micropython.c.o: \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/stdlib/micropython/lv_mem_core_micropython.c \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/stdlib/micropython/../lv_mem.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/stdlib/micropython/../../lv_conf_internal.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/stdlib/micropython/../../lv_conf_kconfig.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lv_conf.h \
+ /usr/arm-linux/lib/gcc/arm-linux-gnueabihf/7.5.0/include/stdint.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/stdint.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/libc-header-start.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/features.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/sys/cdefs.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/wordsize.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/long-double.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/gnu/stubs.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/gnu/stubs-hard.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/types.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/typesizes.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/wchar.h \
+ /usr/arm-linux/lib/gcc/arm-linux-gnueabihf/7.5.0/include/stddef.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/string.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/xlocale.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/stdlib/micropython/../../misc/lv_types.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/stdlib/micropython/../../misc/../lv_conf_internal.h

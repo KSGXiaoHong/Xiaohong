@@ -1,0 +1,2 @@
+项目在不断优化中，代码中文编码为UTF8格式
+如有不对的地方或疑问欢迎留言：KSGxiaohong@hotmail.com

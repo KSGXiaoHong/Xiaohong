@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "/mnt/hgfs/VS/code/YQ/Demo/bin/main"
+  "/mnt/hgfs/VS/code/YQ/Demo/bin/main.pdb"
+  "CMakeFiles/main.dir/bmp.c.o"
+  "CMakeFiles/main.dir/bmp.c.o.d"
+  "CMakeFiles/main.dir/car.c.o"
+  "CMakeFiles/main.dir/car.c.o.d"
+  "CMakeFiles/main.dir/everyday.c.o"
+  "CMakeFiles/main.dir/everyday.c.o.d"
+  "CMakeFiles/main.dir/game.c.o"
+  "CMakeFiles/main.dir/game.c.o.d"
+  "CMakeFiles/main.dir/help.c.o"
+  "CMakeFiles/main.dir/help.c.o.d"
+  "CMakeFiles/main.dir/lcdpjt.c.o"
+  "CMakeFiles/main.dir/lcdpjt.c.o.d"
+  "CMakeFiles/main.dir/lv.c.o"
+  "CMakeFiles/main.dir/lv.c.o.d"
+  "CMakeFiles/main.dir/main.c.o"
+  "CMakeFiles/main.dir/main.c.o.d"
+  "CMakeFiles/main.dir/map.c.o"
+  "CMakeFiles/main.dir/map.c.o.d"
+  "CMakeFiles/main.dir/mokuai.c.o"
+  "CMakeFiles/main.dir/mokuai.c.o.d"
+  "CMakeFiles/main.dir/mouse_cursor_icon.c.o"
+  "CMakeFiles/main.dir/mouse_cursor_icon.c.o.d"
+  "CMakeFiles/main.dir/mp4.c.o"
+  "CMakeFiles/main.dir/mp4.c.o.d"
+  "CMakeFiles/main.dir/photo.c.o"
+  "CMakeFiles/main.dir/photo.c.o.d"
+  "CMakeFiles/main.dir/play.c.o"
+  "CMakeFiles/main.dir/play.c.o.d"
+  "CMakeFiles/main.dir/touch.c.o"
+  "CMakeFiles/main.dir/touch.c.o.d"
+  "CMakeFiles/main.dir/user.c.o"
+  "CMakeFiles/main.dir/user.c.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/main.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

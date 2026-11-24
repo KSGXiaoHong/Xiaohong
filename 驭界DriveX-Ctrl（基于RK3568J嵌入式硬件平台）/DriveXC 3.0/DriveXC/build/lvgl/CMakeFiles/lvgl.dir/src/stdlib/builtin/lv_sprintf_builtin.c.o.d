@@ -1,0 +1,25 @@
+lvgl/CMakeFiles/lvgl.dir/src/stdlib/builtin/lv_sprintf_builtin.c.o: \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/stdlib/builtin/lv_sprintf_builtin.c \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/stdc-predef.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/stdlib/builtin/../../lv_conf_internal.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/stdlib/builtin/../../lv_conf_kconfig.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lv_conf.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/stdlib/builtin/../lv_sprintf.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/inttypes.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/features.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/sys/cdefs.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/wordsize.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/long-double.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/gnu/stubs.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/gnu/stubs-hard.h \
+ /usr/arm-linux/lib/gcc/arm-linux-gnueabihf/7.5.0/include/stdint.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/stdint.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/libc-header-start.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/types.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/typesizes.h \
+ /usr/arm-linux/arm-linux-gnueabihf/libc/usr/include/bits/wchar.h \
+ /usr/arm-linux/lib/gcc/arm-linux-gnueabihf/7.5.0/include/stdbool.h \
+ /usr/arm-linux/lib/gcc/arm-linux-gnueabihf/7.5.0/include/stdarg.h \
+ /usr/arm-linux/lib/gcc/arm-linux-gnueabihf/7.5.0/include/stddef.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/stdlib/builtin/../../misc/lv_types.h \
+ /mnt/hgfs/VS/code/YQ/Demo/lvgl/src/stdlib/builtin/../../misc/../lv_conf_internal.h
